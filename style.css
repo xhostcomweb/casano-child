@@ -1,0 +1,48 @@
+/*
+Theme Name: Casano Child | Shared by VestaThemes.com
+Theme URI: https://casano.famithemes.com/
+Template: casano
+Author: Famithemes
+Author URI: https://famithemes.com/
+Description: Casano is a top-notch theme for high-tech shops. An ideal theme for smartphones, tablets, high-tech accessories, electronics, televisions, refrigerators...
+Tags: two-columns,left-sidebar,custom-background,custom-colors,custom-header,custom-menu,featured-images,translation-ready
+Version: 1.0.0
+
+*/
+/*#header > div.header-main-inner > div > div {
+background:#e8e8e8!important;
+}*/
+.header-left .logo img {
+margin-left:10px!important;
+}
+.page-template-default,
+.post-type-archive,
+.page-template {
+padding-bottom:0px!important;
+}
+.footer-top {
+padding-top: 30px;
+background:#131313;
+}
+.footer-top ul li {
+list-style:none;
+}
+.footer-top ul li a {
+color:#a9a9a9;
+}
+.footer-top h3.widget-title {
+text-transform:uppercase;
+font-size:1.1em;
+font-weight:bold;
+color:#e8e8e8;
+}
+.credits {
+background:#131313;
+}
+.credits p,
+.credits p a {
+color:#777777;
+}
+/*div.minicart-content > div > div.actions > a.button.button-viewcart {
+display:none!important;
+}*/
