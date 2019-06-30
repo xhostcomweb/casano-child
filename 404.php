@@ -15,7 +15,7 @@ get_header(); ?>
     <div class="container">
         <div class="text-center page-404">
             <figure class="heading"><img alt="<?php echo esc_attr( get_bloginfo( 'name' ) )?>" src="<?php echo  esc_url( $image404 )?>"/></figure>
-            <h2 class="title"><?php esc_html_e( 'We are sorry, the page you\'ve requested is not available', 'casano' ); ?></h2>
+            <h2 class="title"><?php esc_html_e( 'It\'s not you, its us! Sorry the page you\'ve requested is not available', 'casano' ); ?></h2>
 			<?php get_search_form(); ?>
             <a class="button"
                href="<?php echo esc_url( get_home_url() ); ?>"><?php esc_html_e( 'Back To HomePage', 'casano' ); ?></a>
